@@ -1,6 +1,12 @@
-# Hack T00l - ||  EMAIL Bomb/Bomber || Python Hack Tool || Hacking/Tool||
+# aliburhan- ||  EMAIL Bomb/Bomber || Python Hack Tool || Hacking/Tool||
 
 *#python* *#python 3* *#email* *#bomb* *#bomber* *#code* *#hacking*  *#security* *#mass* *#spam* 
+
+      _ _ _             _              
+ __ _| (_) |__ _  _ _ _| |_  __ _ _ _  
+/ _` | | | '_ \ || | '_| ' \/ _` | ' \ 
+\__,_|_|_|_.__/\_,_|_| |_||_\__,_|_||_|
+                                       
 
 
 ## Code Walk-through & Learning resources links
